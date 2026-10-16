@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+playwright-report/
+test-results/
+coverage/
+.vercel/
+
+# Local assistant instructions, generated inventories, and design review material.
+.agents/
+.claude/
+agent/
+project-inventory.txt
+assets/curation/
+assets/source/

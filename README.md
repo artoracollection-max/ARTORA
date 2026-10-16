@@ -1,4 +1,3 @@
-Warning: fs was declared with const; use let for reassignable variables.
 # ARTORA Landing
 
 Landing page bilíngue para apresentar a coleção ARTORA de wallpapers. A interface está pronta para publicação estática; o botão de compra só é ativado quando os Payment Links públicos do Stripe são configurados.
